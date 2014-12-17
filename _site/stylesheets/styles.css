@@ -5,7 +5,7 @@ body {
   font:18px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
-  background: #E0E0E0;
+  background: #e0e0e0;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -51,6 +51,10 @@ a small {
   margin:0 auto;
   background: white;
   padding:50px;
+   border-color:#cccccc;
+box-shadow: 0 1px 0 #cfcfcf;
+border-radius: 3px;
+
 }
 
 blockquote {
