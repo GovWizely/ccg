@@ -7,7 +7,7 @@ published: true
 
 #CCG Markdown Publishing 
 
-The goal is to take these large Country Commercial Guide PDFs and convert them to Markdown format for better web publishing. Below are steps to best accomplish this:
+The goal is to convert the Country Commercial Guide PDFs into Markdown format, for better web publishing. Below are some steps to best accomplish this:
 
 ###Text (PDF to Doc Conversion)
 
@@ -20,7 +20,7 @@ The goal is to take these large Country Commercial Guide PDFs and convert them t
 
 ###Images
 
-1. Take screenshots of each image from PDF 
+1. Take screenshots of each image from the PDFs
 2. Save screenshots as .png files (example apple.png)
 
 ###Formating Text and images
