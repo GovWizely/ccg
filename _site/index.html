@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>ITA Articles</title>
+    <title>Country Commercial Guides</title>
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
@@ -16,36 +16,9 @@
   <body>
     <div class="wrapper">
       
-        <div id="results_container" style="padding: 15px;">
-                </div>
+        
     </div>
-     <script>
-                                                $(document).ready(function() {
-                                                                get_results();
-                                                });
-                                                function get_results()
-                                                {
-                                                                $.getJSON('http://api.govwizely.com/ita_articles/search', function(d)
-                                                                {
-                                                                                $("#results_container").empty();
-                                                                                for (x in d.results)
-                                                                                {
-                                                                                
-                                                                               	 				var domain = d.results[x].trade_url.replace('http://www.export.gov/','');
-                                                                                                
-                                                                                                row = '<div id="result_' + x + '"><a href="' + domain + '"><h1 class="result_title">' + d.results[x].title + '</h1></a></div>'
-                                                                                                if (x < d.results.length-1)
-                                                                                                {
-                                                                                                                
-                                                                                                }
-                                                                                                row = row + "</div>";
-                                                                                                $("#results_container").append(row);
-                                                                                               
-                                                                                }
-                                                                               
-                                                                });
-                                                }
-                                </script>
+     
     <script src="javascripts/scale.fix.js"></script>
     
   </body>
