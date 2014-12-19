@@ -7,7 +7,7 @@ published: true
 
 #CCG Markdown Publishing 
 
-</br>
+The goal is to take these large Country Commercial Guide PDFs and convert them to Markdown format for better web publishing. Below are steps to best accomplish this:
 
 ###Text (PDF to Doc Conversion)
 
@@ -42,7 +42,6 @@ published: true
 
 #Markdown Cheatsheet
 
-</br>
 
 **Headings** 
 
