@@ -8,11 +8,11 @@ published: true
 #Markdown Formatting 
 
 1. Open CCG folder 
-2. Open files in a text editor or a markdown editor ([http://markable.in/editor/](http://markable.in/editor/))
+2. Open each file in a text editor or a markdown editor ([http://markable.in/editor/](http://markable.in/editor/))
 3. Use cheatsheet as reference to format the content
 
 
-##Original PDFs
+##Selected PDFs
 
 Argentina [http://www.buyusainfo.net/docs/x_9234444.pdf](http://www.buyusainfo.net/docs/x_9234444.pdf)
 
