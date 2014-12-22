@@ -20,8 +20,7 @@ The goal is to convert the Country Commercial Guide PDFs into Markdown format, f
 
 ###Images
 
-1. Take screenshots of each image from the PDFs
-2. Save screenshots as .png files (example apple.png)
+3. Please use these [images](https://github.com/GovWizely/ccg/tree/gh-pages/guide-images) for the guides below.
 
 ###Formating Text and images
 
