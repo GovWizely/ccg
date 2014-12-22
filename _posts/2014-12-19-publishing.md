@@ -36,7 +36,7 @@ The goal is to convert the Country Commercial Guide PDFs into Markdown format, f
 
 * Argentina [http://www.buyusainfo.net/docs/x_9234444.pdf](http://www.buyusainfo.net/docs/x_9234444.pdf)
 
-* Panama [http://buyusainfo.net/docs/x_8889601.pdf](http://buyusainfo.net/docs/x_8889601.pdf)
+* Panama [http://www.camarapr.org/WebC12/Country-profiles/Country-Commercial-Guide-Panama2012.pdf](http://www.camarapr.org/WebC12/Country-profiles/Country-Commercial-Guide-Panama2012.pdf)
 
 ---
 
