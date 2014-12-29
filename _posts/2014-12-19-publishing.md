@@ -7,9 +7,9 @@ published: true
 
 #CCG Markdown Publishing 
 
-The goal is to convert the Country Commercial Guide PDFs into Markdown format, for better web publishing. Below are some steps to best accomplish this:
+The goal is to convert 200 Country Commercial Guide PDFs into Markdown format, for better web publishing and to expose content on [developer.trade.gov](http://developer.trade.gov/). Below are some steps to best accomplish this:
 
-###Text (PDF to Doc Conversion)
+###Text:
 
 1. Go to [Cloud Convert](https://cloudconvert.com/pdf-to-doc) to convert PDF to Doc
 2. Select Files --> Add from URL
@@ -17,19 +17,20 @@ The goal is to convert the Country Commercial Guide PDFs into Markdown format, f
 4. Click Start Conversion
 5. Download and open Doc file locally
 6. Copy and paste all text into this [markdown editor](http://markable.in/editor/)
+7. The headings are most important. Please make sure the headings are consistent with the table of contents
+8. Once complete, go to Export --> Download Markdown
 
-###Images
+###Images:
 
-3. Please use these [images](https://github.com/GovWizely/ccg/tree/gh-pages/guide-images) for the guides below.
+* Take screenshots of the images from the PDFs and convert to .png format 
+* Use these [images](https://drive.google.com/drive/u/1/#folders/0BzuZudIjPPmBZUhjbmtJRzZTTXc/0BzuZudIjPPmBWk0tM0pMdjcyVW8) for the guides below
 
-###Formating Text and images
+###Formating:
 
-1. Use cheatsheet as a reference to format the content 
-2. Use this file as a [model](https://raw.githubusercontent.com/GovWizely/ccg/gh-pages/_posts/2014-12-15-columbia.md) ([published page](http://govwizely.github.io/ccg/colombia.html)) for the following PDFs:
+* Here is a [Markdown Cheatsheet](#cheatsheet) to use as a reference
+* Use this markdown file as a [model](https://raw.githubusercontent.com/GovWizely/ccg/gh-pages/_posts/2014-12-15-columbia.md)
 
----
-
-* Brazil [http://www.export.gov/brazil/build/groups/public/@eg_br/documents/webcontent/eg_br_034878.pdf](http://www.export.gov/brazil/build/groups/public/@eg_br/documents/webcontent/eg_br_034878.pdf)
+###Guides to Work On:
 
 * China [http://export.gov/china/build/groups/public/@eg_cn/documents/webcontent/eg_cn_025684.pdf](http://export.gov/china/build/groups/public/@eg_cn/documents/webcontent/eg_cn_025684.pdf)
 
@@ -37,30 +38,32 @@ The goal is to convert the Country Commercial Guide PDFs into Markdown format, f
 
 * Panama [http://www.camarapr.org/WebC12/Country-profiles/Country-Commercial-Guide-Panama2012.pdf](http://www.camarapr.org/WebC12/Country-profiles/Country-Commercial-Guide-Panama2012.pdf)
 
+#[UPLOAD ALL FILES HERE](https://drive.google.com/drive/u/1/#folders/0BzuZudIjPPmBZUhjbmtJRzZTTXc)
+
 ---
 
-#Markdown Cheatsheet
+<h1 id="cheatsheet" style="margin-top:50px;">Markdown Cheatsheet</h1>
 
 
 **Headings** 
 
 #H1
-	#H1
+	#
 
 ##H2
-	##H2
+	##
 
 ###H3
-	###H3
+	###
 
 ####H4
-	####H4
+	####
 
 ####Bold
 
 	**bold**
 
-####Italic
+####_Italic_
 
 	_Italic_
 
@@ -74,7 +77,7 @@ The goal is to convert the Country Commercial Guide PDFs into Markdown format, f
 
 ![Country](images/uscs.png)
 
-	![Country](images/uscs.png)
+	![Country](images/country.png)
 
 **Line break**
 
