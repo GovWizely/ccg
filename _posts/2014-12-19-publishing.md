@@ -60,6 +60,10 @@ The goal is to convert the Country Commercial Guide PDFs into Markdown format, f
 
 	**bold**
 
+####Italic
+
+	_Italic_
+
 **Links**
  
 [Google](www.google.com)
