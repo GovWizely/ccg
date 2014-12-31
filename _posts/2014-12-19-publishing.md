@@ -1,6 +1,6 @@
 ---
 permalink: "publishing.html"
-layout: default
+layout: plain
 title: Country Commercial Guides 
 published: true
 ---
