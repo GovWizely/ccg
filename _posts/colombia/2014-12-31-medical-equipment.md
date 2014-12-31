@@ -7,7 +7,7 @@ published: true
 
 ####Overview 
 
-![Dollars](images/dollars.png)
+![Dollars](../images/dollars.png)
 
 Colombia is the 22nd largest market for U.S. medical equipment exports. During 2012, the United States exported US$365.6 million in medical equipment to Colombia. The medical device market relies on imports for around 80 percent of the market. Since the signing of the United States- Colombia Trade Promotion Agreement (commonly referred to as the FTA) in 2012, 96 percent of U.S. Medical equipment exports to Colombia receive duty free treatment.
 

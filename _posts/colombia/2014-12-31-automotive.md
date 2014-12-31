@@ -7,7 +7,7 @@ published: true
 
 ####Overview 
 
-![Automotive Market](images/automotive-market.png)
+![Automotive Market](../images/automotive-market.png)
 
 Colombia is a major player in the regional automotive market. The Colombian automotive sector experienced a decrease of 7 percent from 2012 to 2013. Despite this decline, 2013 was the third best year of auto sales ever in Colombia. Auto parts sales were US$3.780 billion, declining also 7 percent from 2012 to 2013.
 
@@ -106,5 +106,5 @@ PROEXPORT COLOMBIA (Export Promotion): [www.proexport.com.co](www.proexport.com.
 
 **Parts and Accessories HS Codes**
 
-![HS Codes](images/hs-codes.png)
+![HS Codes](../images/hs-codes.png)
 
