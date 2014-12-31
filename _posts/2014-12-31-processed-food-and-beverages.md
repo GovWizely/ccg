@@ -5,7 +5,7 @@ published: true
 ---
 <h3 id="processed-food-and-beverages">Processed Food and Beverages</h3>
 
-####Overview [Return to top](#chap4)
+####Overview 
 
 ![Imports2](images/imports2.png)
 
@@ -59,7 +59,7 @@ These developments are supported by forecasts for the sector. Soft drink sales (
 
 Leading brands from international spirits firms are gradually finding markets in wealthy metropolitan areas, which will inevitably lead to an increase in consumption over the forecast period.
 
-####Best Products/Services [Return to top](#chap4)
+####Best Products/Services 
 
 ![Food1](images/food1.png)
 
@@ -69,7 +69,7 @@ Leading brands from international spirits firms are gradually finding markets in
 
 ![Food4](images/food4.png)
 
-####Opportunities [Return to top](#chap4)
+####Opportunities 
 
 The FTA is providing duty-free access on 77 percent of all agricultural tariff lines, accounting for 52 percent of current U.S. exports to Colombia. Colombia will eliminate most other tariffs on agricultural products within 15 years. Duty-free treatment is also extended to most processed food products, including pastry and dessert mixes, spices, condiments (except mayonnaise), frozen vegetables, processed turkey, beer, wine, nuts, soup preparations, soft drinks, cookies, snacks, and chips, among others. Before the FTA these products had an average tariff of between 5 and 20 percent.
 
@@ -114,7 +114,7 @@ Colombia requires country-of-origin labeling for processed food products. Howeve
 
 origin labeling is required. Also, fresh fruit and vegetables do not require country of origin labeling. Product labeling information on imported processed products must be present at the point of retail sale. The responsibility for this labeling information rests with the importer, not the retailer. Many Colombian importers arrange for this information to be placed on the product by the exporting firm, before it enters Colombia. Labels on processed food products must indicate the specific name of the product, ingredients in order of predominance, name and address of manufacturer and importer, number of units, instructions for storage and usage (when required), and expiration date.
 
-####Resources [Return to top](#chap4)
+####Resources 
 
 - USDA Foreign Agricultural Service: [http://gain.fas.usda.gov/Lists/Advanced%20Search/AllItems.aspx](http://gain.fas.usda.gov/Lists/Advanced%20Search/AllItems.aspx)
 - National Industries Association (ANDI): [www.andi.com.co](www.andi.com.co)

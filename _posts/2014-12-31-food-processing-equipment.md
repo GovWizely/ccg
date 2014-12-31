@@ -5,7 +5,7 @@ published: true
 ---
 <h3 id="food-processing-equipment">Food Processing Equipment</h3>
 
-####Overview [Return to top](#chap4)
+####Overview 
 
 ![Food](images/food.png)
 
@@ -17,7 +17,7 @@ In 2013 the food industry grew approximately 9 percent, compared to 6 percent in
 
 Among the most important sectors in the food processing equipment industry in Colombia are sugar mills, rice mills, cereal mills industry, the oils and fats sector, dairy products, the chocolate and candy industries, and the meat and beverage sectors. Most of the equipment and raw materials required for those industries are imported. The implementation of the United States -Colombia Trade Promotion Agreement (commonly referred to as the FTA) will increase opportunities for U.S. exporters on this Industry.
 
-####Best Prospects/Services [Return to top](#chap4)
+####Best Prospects/Services 
 
 Based on market data and growing demand, and taking into consideration the following recap of market entry of machinery, processing equipment and raw material to supply local food and beverage production, the following sectors are considered the most attractive for U.S. exporters:
 
@@ -29,7 +29,7 @@ Oils and fats processing is another promising industry segment, given that Colom
 
 #####[http://globalimpactconsulting.com/30/3/2/hot_sectors/food_processing/colombia.html](http://globalimpactconsulting.com/30/3/2/hot_sectors/food_processing/colombia.html)
 
-####Opportunities [Return to top](#chap4)
+####Opportunities 
 
 The recent influx of economic data regarding foreign direct investment and a decrease in unemployment show that Colombia is on its way to perform at all-time highs in terms of economic activity.
 
@@ -39,7 +39,7 @@ Competition from local equipment producers in this sector is minimal. The qualit
 
 This is especially true in terms of competing with the latest technologies such as nanotechnology and electronic/robotics used for production/packaging lines. The May 2012 implementation of the FTA emphasized the importance of improving the competitiveness of this sector. The FTA eliminated the five to 15 percent Colombian tariffs on U.S. products for this industry and will significantly increase the competitiveness of U.S. food machinery and packaging equipment in the Colombian market.
 
-####Resources [Return to top](#chap4)
+####Resources 
 
 Alimentos Magazine, Axioma Communications LTDA. [http://www.revistaialimentos.com.co](http://www.revistaialimentos.com.co)
 

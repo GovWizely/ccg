@@ -1,11 +1,11 @@
 --- 
-permalink: 'franchising2.html' 
+permalink: '' 
 layout: default
 published: true
 ---
 <h3 id="franchising2">Franchising</h3>
 
-####Overview [Return to top](#chap4)
+####Overview 
 
 The number of franchises in Colombia has more than doubled over the past 10 years. This boom has been driven by a better understanding and acceptance of the concept of franchising by many local firms, and by the improvement in international perception of the business environment due to the implementation of newly-signed free trade agreements.
 
@@ -37,7 +37,7 @@ In terms of outlook by franchising category, food and beverages will continue to
 
 ![Trends](images/trends.png)
 
-####Resources [Return to top](#chap4)
+####Resources 
 
 **CS Bogota contact:**
 
