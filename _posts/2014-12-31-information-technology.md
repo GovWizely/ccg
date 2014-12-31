@@ -5,7 +5,7 @@ published: true
 ---
 <h3 id="information-technology">Information Technology</h3>
 
-####Overview [Return to top](#chap4)
+####Overview 
 
 Colombia’s IT Market Overview
 
@@ -98,7 +98,7 @@ In the last couple of years Colombia has been successful in attracting large mul
 
 As progress is made on all these fronts, interesting opportunities will emerge for U.S. companies capable of identifying emerging demand for more sophisticated products and services from local and foreign companies operating in these sectors in Colombia.
 
-####Best Products/Services [Return to top](#chap4)
+####Best Products/Services 
 
 Best prospects for:
 
@@ -110,7 +110,7 @@ Best prospects for:
 
 4. Mobile Applications
 
-####Opportunities [Return to top](#chap4)
+####Opportunities 
 
 Opportunities for U.S. companies in the Colombian IT market are associated to three main drivers: 1) increased connectivity and affordability of equipment; 2) multi-sector economic growth; and 3) government programs for institutional, regional and SME modernization.
 
@@ -140,7 +140,7 @@ Specific opportunities may also be found in these sectors for companies seeking 
 
 Security Software Solutions should also be of interest for retailing and financial services companies.
 
-####Note on Telecommunications and the U.S. - Colombia FTA [Return to top](#chap4)
+####Note on Telecommunications and the U.S. - Colombia FTA 
 
 General Overview
 
@@ -170,7 +170,7 @@ In September 2012 Colombia’s Communications Regulatory Commission (CRC) publis
 
 56 legislative and regulatory steps to comply with what was negotiated under the agreement.
 
-####Resources [Return to top](#chap4)
+####Resources 
 
 **CS Bogota contact:**
 

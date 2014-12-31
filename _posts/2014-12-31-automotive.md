@@ -5,7 +5,7 @@ published: true
 ---
 <h3 id="automotive">Automotive</h3>
 
-####Overview [Return to top](#chap4)
+####Overview 
 
 ![Automotive Market](images/automotive-market.png)
 
@@ -41,7 +41,7 @@ Colombian end-users of automotive parts and accessories are numerous, varied, an
 
 83 percent of total Colombian vehicles are for private use; 14 percent are in public service and 3 percent are for official use (not including those owned by the Ministry of Transportation, the Ministry of Defense, and the Ministry of Foreign Relations).
 
-####Best Prospects/Services [Return to top](#chap4)
+####Best Prospects/Services 
 
 Best prospects for Automotive Parts and Accessories are:
 
@@ -61,7 +61,7 @@ Best prospects for Automotive Parts and Accessories are:
 
 Tire recycling operators
 
-####Opportunities [Return to top](#chap4)
+####Opportunities 
 
 With regard to auto parts, Colombia is the United States’ fifth largest trading partner in Latin America and the United States is Colombia’s third largest trading partner after China and Mexico. Colombia’s competitive economy provides opportunities for U.S. manufacturers. Two main areas for opportunities in the automotive industry in Colombia are:
 
@@ -82,7 +82,7 @@ Other end-users are as follows:
 * Tire Distributors
 * Government Agencies Other End-Users: rental car and limousine companies.
 
-####Resources [Return to top](#chap4)
+####Resources 
 
 U.S. Commercial Service Bogotá contact: Carolina Arregoces Email: Carolina.arregoces@trade.gov Tel: (571) 275-2755
 

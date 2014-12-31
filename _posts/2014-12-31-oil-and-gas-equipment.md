@@ -5,7 +5,7 @@ published: true
 ---
 <h3 id="oil-and-gas-equipment">Oil and Gas Equipment</h3>
 
-####Overview [Return to top](#chap4)
+####Overview 
 
 The oil and gas machinery and services market continues to represent an important opportunity for U.S. companies. The Government of Colombia (GOC) continues to place top priority on oil and gas exploration and production, as evidenced by the fact that the country has already reached its 2015 target production level of over one million barrels per day.
 
@@ -25,7 +25,7 @@ Oil and gas companies are conducting an aggressive exploration campaign througho
 
 In May 2011 Ex-Im Bank announced the approval of US$3.8 billion in loans and guarantees for the modernization of the Cartagena Refinery project (Reficar) and Ecopetrol to support the acquisition of U.S. goods and services for the industry. Imports of oil & gas equipment benefit from Colombia’s relative proximity to the United States. And with the implementation of the United States-Colombia Trade Promotion Agreement (FTA), Colombia eliminated import duties for equipment, spare parts, and accessories destined for various activities including exploration, production, refining, and transformation.
 
-####Best Products/Services [Return to top](#chap4)
+####Best Products/Services 
 
 * Seismic activity services (both 2D and 3D)
 * Improved analytical seismic computer codes
@@ -35,13 +35,13 @@ In May 2011 Ex-Im Bank announced the approval of US$3.8 billion in loans and gua
 * Enhanced oil recovery for selected fields in which production is dwindling
 * Crude oil and natural gas pipeline design and construction services
 
-####Opportunities [Return to top](#chap4)
+####Opportunities 
 
 Potential opportunities involve petrochemical and refinery expansion projects, including an expansion of the Barrancabermeja refinery which awarded Foster Wheeler USA and Process Consultants the project management contract and expects to open the selection process for the US$2.5 billion EPC contract.
 
 Other large projects include the construction of the US$4.2 billion Oleoducto del Bicentenario, a 960 kilometer crude pipeline (450,000 barrels per day) that is expected to become operational by the end of 2014. Ecopetrol has a 55 percent share of this project. Other partners include a 32.8 percent share held by Pacific Rubiales, and the remaining 12.2 percent held by other firms including PetroMinerales and Hocol.
 
-####Resources [Return to top](#chap4)
+####Resources 
 
 * National Hydrocarbons Agency (ANH): [www.anh.gov.co](www.anh.gov.co)
 * Ministry of Mines and Energy: [www.minminas.gov.co](www.minminas.gov.co)

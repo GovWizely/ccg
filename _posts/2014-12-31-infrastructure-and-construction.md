@@ -5,7 +5,7 @@ published: true
 ---
 <h3 id="infrastructure-and-construction">Infrastructure and Construction</h3>
 
-####Overview [Return to top](#chap4)
+####Overview 
 
 A constant complaint among Colombian companies is that bringing merchandise to Bogota or Medellin from the port of Buenaventura is more expensive than shipping goods from that same port all the way to Asia. According to the “Infrastructura de Transporte en Colombia” study, Colombia has the highest internal costs for container transportation in all of Latin America. It costs (on average) a whopping US$1,808 to move a container in Colombia vs. US$925 in Mexico or US$280 in Peru10. These high transportation costs are often jokingly referred to as a “national tax”, and they result in an additional cost to the end user. Historically, in addition to Colombia’s challenging geography with its three mountains ranges dividing the country, the main forces behind the nation’s inadequate infrastructure network have been corruption, militancy and shifting government agendas over the years.
 
@@ -37,7 +37,7 @@ While the urban transport projects of Bogota are not part of the 4G concessions,
 
 The execution of the projects mentioned above involve both private and public financing efforts. Opportunities exist for American banks that may be interested in supporting some of these projects, especially those under 4G PPP contracts.
 
-####Best Products/Services [Return to top](#chap4)
+####Best Products/Services 
 
 Best prospects in the transportation and infrastructure sectors are:
 
@@ -49,7 +49,7 @@ Best prospects in the transportation and infrastructure sectors are:
 * Road safety equipment and services
 * Railroad equipment and services
 
-####Opportunities [Return to top](#chap4)
+####Opportunities 
 
 On May 15, 2014, the United States-Colombia Trade Promotion Agreement (FTA) will celebrate its two year anniversary. Thanks to the FTA, road and railroad construction equipment (which were previously assessed an average tariff of 15 percent) currently enter the Colombian market duty-free. Services such as project management, bridge design, architecture and engineering design, among others, also have advantages as a result of the FTA.
 
@@ -59,7 +59,7 @@ As opportunities are concentrated in road construction, airport expansion, railr
 
 ####CONSTRUCTION
 
-####Overview [Return to top](#chap4)
+####Overview 
 
 Market research firm Business Monitor International (BMI) has recently revised their forecast for the construction industry’s real growth in Colombia from 5.5 percent to 8.35 percent for 2013. This is underpinned by an official revision to industry growth in 2012, which was previously believed to have been 3.28 percent, but is now reported by Colombia's Central Bank to have been 6.3 percent. In addition, the industry reported strong growth of 9.89 percent in the first half of 2013. With continued strong backing from the GOC for the sector, BMI maintains their outlook of a healthy annual average real construction growth of 5.9 percent between 2014 and 2018.
 

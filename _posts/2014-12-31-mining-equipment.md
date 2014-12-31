@@ -5,7 +5,7 @@ published: true
 ---
 <h3 id="mining-equipment">Mining Equipment</h3>
 
-####Overview [Return to top](#chap4)
+####Overview 
 
 ![Mining](images/mining.png)
 
@@ -21,15 +21,15 @@ Colombia has proven coal reserves of 6.6 billion metric tons, and up to an addit
 
 Imports of mining equipment benefit from Colombia’s relative proximity to the United States. And, with the implementation of the United States-Colombia Trade Promotion Agreement (FTA) which went into effect on May 15th 2012, Colombia will eliminate import duties for equipment, spare parts, and accessories destined for various mining activities (production, processing, and transformation).
 
-####Best Products/Services [Return to top](#chap4)
+####Best Products/Services 
 
 Areas of opportunity include mineral exploration (geophysics, mapping, diamond drilling, tunneling), production equipment (drilling, extraction, loading, hauling and crushing), and mining software (resource estimation, modeling, mine design and planning, maintenance and optimization), as well as environmental consulting remediation and mine closure, and mine safety equipment.
 
-####Opportunities [Return to top](#chap4)
+####Opportunities 
 
 If international commodity prices improve, the leading Colombian coal producers, including Cerrejón, Drummond and Glencore will continue to expand operations in various parts of the country and produce more than 100 million tons per year.
 
-####Resources [Return to top](#chap4)
+####Resources 
 
 * Colombian Government: [www.gobiernoenlinea.gov.co](www.gobiernoenlinea.gov.co)
 * National Planning Department (DNP): www.dnp.gov.co

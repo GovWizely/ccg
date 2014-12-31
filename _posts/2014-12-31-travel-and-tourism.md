@@ -5,7 +5,7 @@ published: true
 ---
 <h3 id="travel-and-tourism">Travel and Tourism</h3>
 
-####Overview [Return to top](#chap4)
+####Overview 
 
 ![Travel](images/travel.png)
 
@@ -27,7 +27,7 @@ Most Colombians organize their trips through a local travel agent, and are known
 
 Colombians have significantly diversified their travel habits, selecting other countries for their vacation plans. South America, especially Argentina and Brazil, have become increasingly popular destinations. These destinations are attractive alternatives to the United States because there is no visa required and promotional packages that include low airfares and all-inclusive hotel or resort rates are readily available. The strong competition from alternative destinations makes it imperative for the U.S. Travel and Tourism industry in Colombia to consistently promote travel opportunities.
 
-####Best Prospects/Services [Return to top](#chap4)
+####Best Prospects/Services 
 
 * Air Transportation Services
 * Hotels, Motels, Lodging facilities
@@ -41,7 +41,7 @@ Colombians have significantly diversified their travel habits, selecting other c
 * Cruises
 * Health insurance cards
 
-####Opportunities [Return to top](#chap4)
+####Opportunities 
 
 The total number of passengers traveling from Colombia to foreign countries increased by 15 percent between 2008 and 2012. From 2012 to 2013 the number of travelers grew approximately 22 percent. The growth rate for 2014 is expected to increase by 15 percent. There are positive factors that will help Colombia to augment the number of travelers going abroad for business and tourism purposes such as: (a) the “Open Skies” agreement which entered in force in January 2013 (b) the implementation of the FTA;
 
@@ -59,7 +59,7 @@ Other incentives:
 * Legal Stability Agreements to guarantee investment projects
 * Tax discounts by hiring new employees under 28, handicapped, displaced, or women over 40
 
-####Resources [Return to top](#chap4)
+####Resources 
 
 * Office of Travel and Tourism Industries [http://tinet.ita.doc.gov](http://tinet.ita.doc.gov)
 * Colombian Association of Airlines (ALAICO): [www.alaico.org](www.alaico.org) or Tel: 011 571 618-0540

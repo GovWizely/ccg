@@ -5,7 +5,7 @@ published: true
 ---
 <h3 id="medical-equipment">Medical Equipment</h3>
 
-####Overview [Return to top](#chap4)
+####Overview 
 
 ![Dollars](images/dollars.png)
 
@@ -29,7 +29,7 @@ Intellectual Property Rights:
 
 The FTA requires high levels of intellectual property protection and enforcement, consistent with U.S. and international standards, and will support the growth of trade in valuable digital and other intellectual property-based products. The FTA also provides enhanced protections for trademarks, copyrights, and patents, such as the implementation of a Colombian electronic trademark application system and on-line database, prohibition on the circumvention of technological protection measures used by copyright holders, and requirements for the parties to provide robust patent and test data protection.
 
-####Best Products/Services [Return to top](#chap4)
+####Best Products/Services 
 
 Best prospects for U.S. medical equipment manufacturers include:
 
@@ -45,7 +45,7 @@ Best prospects for U.S. medical equipment manufacturers include:
 
 It is expected that a number of Colombia’s clinical laboratories will be upgraded in the near future, which will provide an opportunity for exporters of clinical laboratory equipment. Opportunities also remain in medical, surgical, dental and veterinary instruments and electro medical equipment.
 
-####Opportunities [Return to top](#chap4)
+####Opportunities 
 
 In 2012 Colombia imported medical equipment and supplies valued at US$1.02 billion, the highest level ever. Of this total, US$359 million was from the United States. The medical device industry is concentrated around the capital of Bogota. Per capita spending on medical devices is average for the region. While there is some domestic capacity for manufacturing basic items, the medical device market is heavily reliant on imports, especially for more high-tech items. A few multinationals manufacture within the country.
 
@@ -77,7 +77,7 @@ MEDITECH COLOMBIA [http://www.feriameditech.com/](http://www.feriameditech.com/)
 
 BELLEZA Y SALUD [www.feriabellezaysalud.com](www.feriabellezaysalud.com) (August 21st-25th) The Beauty and Health Fair has established itself as the leading event where the most recognized companies in the sector and leading professionals in the area of health and beauty will be present to show visitors the latest trends, developments in products, equipment and services integral to beauty for men and women.
 
-####Resources [Return to top](#chap4)
+####Resources 
 
 * Health Ministry, Ministerio de la Proteccion Social: www.minproteccionsocial.gov.co
 

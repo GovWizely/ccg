@@ -5,7 +5,7 @@ published: true
 ---
 <h3 id="electric-power-and-renewable-energy">Electric Power and Renewable Energy</h3>
 
-####Overview [Return to top](#chap4)
+####Overview 
 
 ![Electrical](images/electrical.png)
 
@@ -19,7 +19,7 @@ Efforts are underway to promote private ventures in the areas of solar, wind, ge
 
 Importers of U.S. electric power generation equipment benefit from the relative proximity of Colombia to the United States. And with the implementation on May 12, 2012 of the United States-Colombia Trade Promotion Agreement (FTA), Colombia will eliminate import duties for equipment, spare parts, and accessories for this sector.
 
-####Best Prospects/Services [Return to top](#chap4)
+####Best Prospects/Services 
 
 * Power, distribution, and specialty transformers
 * Switchgears
@@ -29,7 +29,7 @@ Importers of U.S. electric power generation equipment benefit from the relative 
 * Steam, gas, and hydraulic turbines
 * Turbine generator sets
 
-####Opportunities [Return to top](#chap4)
+####Opportunities 
 
 The outlook for the Colombian electricity sector is promising since the GOC is planning to develop several new power generation projects through 2018, mostly hydro, to accommodate the expanded demand. Additionally, the GOC is exploring prospects for becoming a major exporter of electricity (including goods and services) to the Andean region and Central America.
 
@@ -37,7 +37,7 @@ As a result of this trend some solid business prospects exist to continue using 
 
 To assist with these GOC efforts, the U.S. Trade and Development Agency has awarded feasibility study grants for a geothermal power plant (ISAGEN), a 20 MW landfill waste-to-energy facility, and a proposed solar-wind power project. In addition, USTDA is also supporting the GOC’s interest in applying SmartGrid technologies to improve the nation’s high-voltage transmission and distribution network.
 
-####Resources [Return to top](#chap4)
+####Resources 
 
 Please contact Julio Carbó, Commercial Specialist of the U.S. Commercial Service at the U.S. Embassy Bogotá, Colombia at [Julio.Carbo@trade.gov](Julio.Carbo@trade.gov) or 011-571-275-2723.
 
