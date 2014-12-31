@@ -1,5 +1,5 @@
 --- 
-permalink: 'travel-and-tourism.html' 
+permalink: 'colombia/travel-and-tourism.html' 
 layout: default
 published: true
 ---

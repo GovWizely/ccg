@@ -1,5 +1,5 @@
 --- 
-permalink: 'processed-food-and-beverages.html'
+permalink: 'colombia/processed-food-and-beverages.html'
 layout: default
 published: true 
 ---

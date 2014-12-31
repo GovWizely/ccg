@@ -1,5 +1,5 @@
 --- 
-permalink: 'oil-and-gas-equipment.html' 
+permalink: 'colombia/oil-and-gas-equipment.html' 
 layout: default
 published: true
 ---

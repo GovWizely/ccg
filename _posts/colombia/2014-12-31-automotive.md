@@ -1,5 +1,5 @@
 --- 
-permalink: 'automotive.html' 
+permalink: 'colombia/automotive.html' 
 layout: default
 published: true
 ---
