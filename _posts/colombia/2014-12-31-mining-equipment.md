@@ -1,5 +1,5 @@
 --- 
-permalink: 'mining-equipment.html' 
+permalink: 'colombia/mining-equipment.html' 
 layout: default
 published: true
 ---

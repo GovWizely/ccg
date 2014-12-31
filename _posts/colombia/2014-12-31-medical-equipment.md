@@ -1,5 +1,5 @@
 --- 
-permalink: 'medical-equipment.html' 
+permalink: 'colombia/medical-equipment.html' 
 layout: default
 published: true
 ---

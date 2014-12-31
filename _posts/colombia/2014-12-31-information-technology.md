@@ -1,5 +1,5 @@
 --- 
-permalink: 'information-technology.html'
+permalink: 'colombia/information-technology.html'
 layout: default 
 published: true
 ---

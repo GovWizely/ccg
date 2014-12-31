@@ -1,5 +1,5 @@
 --- 
-permalink: 'electric-power-and-renewable-energy.html' 
+permalink: 'colombia/electric-power-and-renewable-energy.html' 
 layout: default
 published: true
 ---

@@ -1,5 +1,5 @@
 --- 
-permalink: '' 
+permalink: 'colombia/franchising2.html' 
 layout: default
 published: true
 ---

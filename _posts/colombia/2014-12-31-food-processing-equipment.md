@@ -1,5 +1,5 @@
 --- 
-permalink: 'food-processing-equipment.html' 
+permalink: 'colombia/food-processing-equipment.html' 
 layout: default
 published: true
 ---

@@ -1,5 +1,5 @@
 --- 
-permalink: 'agricultural-sector.html'
+permalink: 'colombia/agricultural-sector.html'
 layout: default 
 published: true
 ---

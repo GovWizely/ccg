@@ -1,5 +1,5 @@
 --- 
-permalink: 'education.html' 
+permalink: 'colombia/education.html' 
 layout: default
 published: true
 ---
