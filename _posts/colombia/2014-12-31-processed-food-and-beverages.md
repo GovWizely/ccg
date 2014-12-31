@@ -7,7 +7,7 @@ published: true
 
 ####Overview 
 
-![Imports2](images/imports2.png)
+![Imports2](../images/imports2.png)
 
 Colombia is a growing market for value-added, processed and packaged food products. This growth is partly due to the expansion of mass grocery retailers, with their chilled and frozen storage facilities. Also, producers are set to benefit from further retail expansion beyond the largest four cities (Bogota, Medellin, Cali and Barranquilla).
 
@@ -61,13 +61,13 @@ Leading brands from international spirits firms are gradually finding markets in
 
 ####Best Products/Services 
 
-![Food1](images/food1.png)
+![Food1](../images/food1.png)
 
-![Food2](images/food2.png)
+![Food2](../images/food2.png)
 
-![Food3](images/food3.png)
+![Food3](../images/food3.png)
 
-![Food4](images/food4.png)
+![Food4](../images/food4.png)
 
 ####Opportunities 
 
@@ -75,9 +75,9 @@ The FTA is providing duty-free access on 77 percent of all agricultural tariff l
 
 **The following product categories represent the major export opportunities, and emerging opportunities, for U.S. food products with zero duties entering Colombia:**
 
-![Consumer1](images/consumer1.png)
+![Consumer1](../images/consumer1.png)
 
-![Consumer2](images/consumer2.png)
+![Consumer2](../images/consumer2.png)
 
 According to a recent consumer survey by Raddar Consumer Knowledge Group, about 80 percent of Colombian households associate with specific food brands that are regularly included in shopping lists. The following branded products are increasing in retail market share: canned/processed food, dried processed food, frozen processed food, meal solutions, oils and fats, ready-to-eat meals, sauces, dressings and condiments.
 

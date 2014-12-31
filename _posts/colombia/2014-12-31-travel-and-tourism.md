@@ -7,7 +7,7 @@ published: true
 
 ####Overview 
 
-![Travel](images/travel.png)
+![Travel](../images/travel.png)
 
 Due to steady GDP growth and increased economic stability, Colombia offers a promising market for the U.S. tourism industry. Colombia is expected to be one of the fastest growing countries in terms of number of visitors to the United States over the next 10 years, according to the International Air Transport Association (IATA). Colombia ranks as the 16th top country for sending travelers to the United States. More than 735,000 Colombian travelers visited the United States in 2013, 22 percent more than in 2012.
 

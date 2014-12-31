@@ -29,13 +29,13 @@ In terms of intellectual property, Colombia has in place adequate institutions t
 
 As Colombia’s economy is expected to continue growing at a stable and dynamic rate, it is very likely that franchising will continue to develop, both in terms of national and foreign concepts. Furthermore, with the increase in the development of new shopping centers in intermediate cities, growth is likely to benefit both established and up and coming players.
 
-![Forecast1](images/forecast1.png)
+![Forecast1](../images/forecast1.png)
 
-![Forecast2](images/forecast2.png)
+![Forecast2](../images/forecast2.png)
 
 In terms of outlook by franchising category, food and beverages will continue to benefit the most from current economic trends, followed by clothing retail concepts. Services franchises are just starting to gain traction and have yet to become an attractive business opportunity for most investors, with the largest share found in the specialized services (7 percent), health (4 percent), and education and training (3 percent) categories.
 
-![Trends](images/trends.png)
+![Trends](../images/trends.png)
 
 ####Resources 
 

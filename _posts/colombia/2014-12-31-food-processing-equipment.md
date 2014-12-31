@@ -7,7 +7,7 @@ published: true
 
 ####Overview 
 
-![Food](images/food.png)
+![Food](../images/food.png)
 
 The Colombian Processed Food and Beverage Equipment market caters to an industry that produces approximately US$22 billion in revenue per year. The food industry is comprised of 10 sub sectors: sugar mills, rice mill, cereal mills, oils and fats, dairy products, chocolates and candy, meat products, animal food products, bread and pasta, and others. The beverage industry is also comprised of three subsectors: beer, carbonated soft drinks and juices, and spirits.
 
@@ -21,7 +21,7 @@ Among the most important sectors in the food processing equipment industry in Co
 
 Based on market data and growing demand, and taking into consideration the following recap of market entry of machinery, processing equipment and raw material to supply local food and beverage production, the following sectors are considered the most attractive for U.S. exporters:
 
-![Market](images/market.png)
+![Market](../images/market.png)
 
 Colombia is the third largest dairy products producer in Latin America, after Brazil and Mexico. The dairy sub-sector, along with the following services and equipment offer the best market potential for U.S. exporters: dairy production equipment; bottling services (alcoholic and non-alcoholic); brewery equipment; mixing, grading and filtering apparatus; heat exchangers; filling, sealing and capping; preserved/canned meat and fish products; and horticulture packaging equipment.
 

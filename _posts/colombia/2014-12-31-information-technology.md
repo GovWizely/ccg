@@ -11,21 +11,21 @@ Colombia’s IT Market Overview
 
 The Government of Colombia (GOC) continues its efforts to move the country to the forefront of Information Technology (IT). But as international rankings in the table below show, Colombia still requires sustained efforts both at the regional and global level. As such the IT sector presents numerous opportunities for U.S. companies offering products and services, in everything from basic infrastructure, to hardware, to connectivity, to IT services, needed to help Colombia move forward with its ambitious goals.
 
-![WEF](images/wef.png)
+![WEF](../images/wef.png)
 
 According to the latest study of the IT market in Colombia (June 2013) carried out by Fedesarrollo and the Colombian IT and Telecommunications Chamber of Commerce (CCIT), it is estimated that Colombia’s Information Technologies and Communications sector amounted to approximately US$19 billion in 2012, including television, internet, telephony and IT services. This figure shows 9.9 percent nominal annual growth from 2002, when it stood at approximately US$7.3 billion.
 
-![Revenues](images/revenues.png)
+![Revenues](../images/revenues.png)
 
 The graph above shows an upward trend for telecommunications and IT revenues, as well as an increased share of the total income by the Information Technology subsector (IT 10 year average growth of 13.7 percent vs. 9.1 percent in telecommunications). This trend is expected to continue, with increased dynamism and expenditures in IT and
 
 Internet services as GOC policies seek to increase the share of ITC as a part of national GDP.
 
-![GDP](images/gdp.png)
+![GDP](../images/gdp.png)
 
 Figures by research firm IDC show that Colombia’s IT sector revenues in 2011 were 4 times those of 2003, having grown at an average rate of 20 percent year- over-year (y-o-y) . Fedesarrollo and CCIT figures show that IT market revenues stood at US$5.7 billion in 2012.
 
-![Sector](images/sector.png)
+![Sector](../images/sector.png)
 
 In terms of specific IT subsectors, it is possible to perceive how Colombia’s market continues to be concentrated mostly on hardware. While by 2011 software and services grew in revenue over three times their 2003 levels, hardware continues to make up more than 50 percent of total revenue, with over US$3.5 billion in 2011.
 
@@ -35,17 +35,17 @@ According to IDC figures, software revenue in 2011 stood at US$698 million and h
 
 Local production in the IT sector consists of computer hardware assembly, repair, software development, and an expanding offering of IT services. These developments have helped the IT sector in Colombia become the third largest in Latin America in relation to per capita GDP, with approximately 3,000 companies operating in the sector (mostly retailers and distributors) employing more than 32,000 people.
 
-![Breakdown](images/breakdown.png)
+![Breakdown](../images/breakdown.png)
 
 Looking forward, sources point to an upward trend for Colombia’s IT sector as a result of expected growth of the Colombian economy, as well as to public policies implemented by the Ministry of Information Technologies and Communications (MinTIC).
 
-![Imports](images/imports.png)
+![Imports](../images/imports.png)
 
 In this regard, according to MinTIC data, at the close of the third quarter of 2013 approximately 7.6 million Colombians were broadband subscribers, achieving a
 
 penetration rate of 16 percent, up from 2.2 million in 2010. While mobile Internet users grew to 4 million at the close of the same time period, it is also worth noting the large increase in broadband connectivity at the lower demographic levels, which now constitute the largest subscriber base in Colombia.
 
-![Income](images/income.png)
+![Income](../images/income.png)
 
 In particular, growth in the Information Technologies and Telecommunications sectors will be strongly influenced by the considerable achievements in terms of widespread Internet and mobile connectivity of the Colombian population, as well as increased small- and medium-sized enterprise (SME) access to and use of technologies and the Internet.
 
@@ -53,15 +53,15 @@ With regard to technology and Internet usage by SMEs, from 2010 through 2012 Int
 
 Colombian International Trade in IT Equipment
 
-![year](images/year.png)
+![year](../images/year.png)
 
 In terms of international trade in IT equipment (Harmonized System Code- HS8471), Global Trade Atlas figures indicate that Colombia’s total imports year over year for the period of October 2012-2013 amounted to US$1.36 billion, a 33 percent nominal growth compared to 2011. Of this total, 66 percent of imports (US$1.17 billion) came from China, followed by Mexico with 11 percent (US$188 million), and the United States with seven percent (US$120 million).
 
-![Goods](images/goods.png)
+![Goods](../images/goods.png)
 
 It is worth noting how while the total value of Colombia’s IT products has been increasing, those imported directly from the United States have moved downward over the past three years, leading to a drop in market share in comparison to China and Mexico. While the latter has also been negatively affected, IT imports from the former have been constantly increasing, along with those from other Asian countries such as Vietnam and Taiwan.
 
-![Mill](images/mill.png)
+![Mill](../images/mill.png)
 
 The slide in the U.S. market share of Colombia’s IT imports has continued in spite of the FTA between Colombia and the United States which went into effect in May 2012, while China’s advantage has continued to increase. Two facts must be taken into consideration with regard to this trend: 1) many international and U.S. manufacturers have their production facilities in China and export directly from there; 2) Chinese companies continue to expand aggressively into Latin America and Colombia, through now familiar brands such as Huawei and Lenovo.
 
@@ -150,11 +150,11 @@ In Colombia, mobile Internet is also directly connected to prepaid users, which 
 
 For fixed services, the drop in telephony lines has stabilized, with a total number of 6.7 million lines by October 2013, and a penetration rate of approximately 13.5 percent by November 2012.
 
-![Telephony1](images/telephony1.png)
+![Telephony1](../images/telephony1.png)
 
 Television has continued to move in an upward trend, with approximately 33 percent of households having some type of paid subscription service at the end of 2012.
 
-![Telephony2](images/telephony2.png)
+![Telephony2](../images/telephony2.png)
 
 One of the most important developments in the telecommunications sector in 2013 was the spectrum auction organized by the GOC to allow carriers to provide 4G/LTE services. Under this process 60 Mhz in the 2,500 MHz band were awarded to Claro and DirecTV (30 MHz each), while Avantel, ETB/Tigo and Movistar were awarded spectrum in the AWS band, in a process estimated at approximately US$400 million.
 

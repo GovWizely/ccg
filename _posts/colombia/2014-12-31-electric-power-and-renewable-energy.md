@@ -7,7 +7,7 @@ published: true
 
 ####Overview 
 
-![Electrical](images/electrical.png)
+![Electrical](../images/electrical.png)
 
 At the end of 2013, Colombia’s installed electric power generation capacity reached 14,524 MW, with a hydro-based capacity share of 63.6 percent and the remainder from gas and coal-fired power plants, small hydro systems, and cogeneration facilities. The Government of Colombia (GOC) has forecast that by 2019 the nation’s installed capacity will reach 18,671 MW, with an increased reliance on large-scale hydro systems.
 
