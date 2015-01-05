@@ -1,5 +1,5 @@
 --- 
-permalink: 'argentina/argentina.html' 
+permalink: 'argentina/argentina/argentina.html' 
 layout: default
 published: true
 ---
