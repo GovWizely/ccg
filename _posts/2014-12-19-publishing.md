@@ -40,6 +40,7 @@ The goal is to convert 200 Country Commercial Guide PDFs into Markdown format, f
 
 #[UPLOAD ALL FILES HERE](https://drive.google.com/drive/u/1/#folders/0BzuZudIjPPmBZUhjbmtJRzZTTXc)
 
+[](#tables)
 ---
 
 <h1 id="cheatsheet" style="margin-top:50px;">Markdown Cheatsheet</h1>
@@ -96,3 +97,18 @@ The goal is to convert 200 Country Commercial Guide PDFs into Markdown format, f
 1. 
 2. 
 3.
+
+<h3 id="tables" >Markdown Cheatsheet</h3>
+
+| Tables        | Are Cool      |
+| ------------- |:-------------:| 
+| col 2 is      | right-aligned | 
+| col 1 is      | left-aligned  | 
+| zebra stripes | are neat      |
+
+
+		| Tables        | Are Cool      |
+		| ------------- |:-------------:| 
+		| col 2 is      | right-aligned | 
+		| col 1 is      | left-aligned  | 
+		| zebra stripes | are neat      |
