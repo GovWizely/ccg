@@ -98,7 +98,7 @@ The goal is to convert 200 Country Commercial Guide PDFs into Markdown format, f
 2. 
 3.
 
-<h3 id="tables" >Markdown Cheatsheet</h3>
+<h3 id="tables" >Tables</h3>
 
 | Tables        | Are Cool      |
 | ------------- |:-------------:| 
