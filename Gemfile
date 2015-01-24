@@ -1,0 +1,5 @@
+gem 'jekyll'
+gem 'nokogiri'
+gem 'rake'
+gem 'rdiscount'
+gem 'pry'
